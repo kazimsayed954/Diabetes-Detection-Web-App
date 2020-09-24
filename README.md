@@ -2,10 +2,9 @@
 
 <p align="center">
   <img src="https://github.com/kazimsayed954/Diabetes-Prediction-Web-App/blob/master/image/diabetesDetection.jpg" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
+  <img src="https://github.com/kazimsayed954/Diabetes-Prediction-Web-App/blob/master/image/diabetesDetection.jpg" width="350" alt="accessibility text">
 </p>
 
-![c](https://github.com/kazimsayed954/Diabetes-Prediction-Web-App/blob/master/image/diabetesDetection.jpg)
 
 
 ### Demo
