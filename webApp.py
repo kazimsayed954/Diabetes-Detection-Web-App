@@ -88,3 +88,10 @@ prediction=RandomForestClassifier.predict(user_input)
 st.subheader('Classification')
 st.write(prediction)
 
+result=prediction[0]
+st.subheader("Predicted Result :")
+if result==1:
+	st.write("Patient having Diabetes")
+else:
+	st.write("Patient Not having Diabetes")
+
